@@ -1,0 +1,2 @@
+all:
+	gcc vice.c data.c board.c init.c bitboards.c hashkeys.c -o PACE
